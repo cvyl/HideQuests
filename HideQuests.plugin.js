@@ -1,6 +1,6 @@
 /**
  * @name HideQuests
- * @version 1.0.3
+ * @version 1.0.6
  * @description Hides/Removes the "Quests" tab and quest badges in Discord.
  * @author Mikka
  * @authorId 390527881891151872
@@ -28,7 +28,7 @@ module.exports = class HideQuest {
     hideQuests() {
         const questContainer = document.querySelector('#library-inventory-tab > div[class^="questsContainer"]');
         if (questContainer) {
-            questContainer.remove();
+            questContainer.setAttribute('hidden', 'true');
         }
     }
 
@@ -45,7 +45,7 @@ module.exports = class HideQuest {
                 if (lastChild) {
                     const link = lastChild.querySelector('a[href="https://discord.com/settings/inventory"]');
                     if (link) {
-                        lastChild.remove();
+                        lastChild.setAttribute('hidden', 'true');
                     }
                 }
             });
