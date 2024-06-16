@@ -8,6 +8,7 @@
  * @donate https://github.com/sponsors/cvyl
  * @website https://cvyl.me
  * @source https://github.com/cvyl/HideQuests/blob/main/HideQuests.plugin.js
+ * @updateurl https://raw.githubusercontent.com/cvyl/HideQuests/main/HideQuests.plugin.js
  */
 
 module.exports = class HideQuest {
