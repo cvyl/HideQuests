@@ -1,6 +1,6 @@
 /**
  * @name HideQuests
- * @version 1.0.7
+ * @version 1.0.8
  * @description Hides/Removes the "Quests" tab and quest badges in Discord.
  * @author Mikka
  * @authorId 390527881891151872
@@ -8,7 +8,7 @@
  * @donate https://github.com/sponsors/cvyl
  * @website https://cvyl.me
  * @source https://github.com/cvyl/HideQuests/blob/main/HideQuests.plugin.js
- * @updateurl https://raw.githubusercontent.com/cvyl/HideQuests/main/HideQuests.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/cvyl/HideQuests/main/HideQuests.plugin.js
  */
 
 module.exports = class HideQuest {
