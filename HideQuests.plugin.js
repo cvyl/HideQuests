@@ -1,6 +1,6 @@
 /**
  * @name HideQuests
- * @version 1.0.2
+ * @version 1.0.3
  * @description Hides/Removes the "Quests" tab and quest badges in Discord.
  * @author Mikka
  * @authorId 390527881891151872
