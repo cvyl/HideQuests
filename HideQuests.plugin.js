@@ -7,7 +7,7 @@
  * @authorLink https://github.com/cvyl
  * @donate https://github.com/sponsors/cvyl
  * @website https://cvyl.me
- * @source https://github.com/cvyl/BDHideQuests/blob/main/HideQuests.plugin.js
+ * @source https://github.com/cvyl/HideQuests/blob/main/HideQuests.plugin.js
  */
 
 module.exports = class HideQuest {
