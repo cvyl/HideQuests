@@ -4,8 +4,12 @@ A simple plugin that hides/removes the Quest badges on people's profiles and hid
 
 ## Preview
 
+![image](https://github.com/cvyl/HideQuests/assets/38471793/4b08fff9-c1be-470f-981c-a4619d8ce52f)
 ![image](https://github.com/cvyl/BDHideQuests/assets/38471793/c8724058-4ad1-42bd-a21b-4e5e5b8a710d)
-![image](https://github.com/cvyl/BDHideQuests/assets/38471793/3f21af5b-f9fe-4647-a62b-cfd13b266f8b)
+![image](https://github.com/cvyl/HideQuests/assets/38471793/14e57de4-4d81-4232-81ac-ec4307eb88c4)
+
+
+
 
 ## Installation
 
